@@ -13,5 +13,6 @@ Most unsuccessful landings are planned. Space X performs a controlled landing in
 ## Objectives of this project :
 1. **Collecting data from : SpaceX API | Wikipedia**
 2. **Perform Exploratory Data Analysis with : SQL | Data Analysis**
-3. **Launch Sites Locations Analysis**
-4. **Machine Learning prediction using : Logistic Regression | SVM | Decision Tree | KNN**
+3. **Build a dashboard with Plotly Dash**
+4. **Launch Sites Locations Analysis**
+5. **Machine Learning prediction using : Logistic Regression | SVM | Decision Tree | KNN**
