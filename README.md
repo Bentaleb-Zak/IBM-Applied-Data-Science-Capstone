@@ -12,14 +12,14 @@ Most unsuccessful landings are planned. Space X performs a controlled landing in
 
 ## Objectives of this project :
 **1. Collecting data from :**
--- SpaceX API
--- Wikipedia
+- SpaceX API
+- Wikipedia
 **2. Perform Exploratory Data Analysis with :**
---SQL
---Data Analysis
+-SQL
+-Data Analysis
 **3. Launch Sites Locations Analysis**
 **4. Machine Learning prediction using :**
--- Logistic Regression
--- SVM
--- Decision Tree
--- KNN
+- Logistic Regression
+- SVM
+- Decision Tree
+- KNN
